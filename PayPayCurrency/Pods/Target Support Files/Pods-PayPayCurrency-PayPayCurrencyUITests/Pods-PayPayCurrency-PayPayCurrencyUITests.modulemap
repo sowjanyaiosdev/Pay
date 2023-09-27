@@ -1,0 +1,6 @@
+framework module Pods_PayPayCurrency_PayPayCurrencyUITests {
+  umbrella header "Pods-PayPayCurrency-PayPayCurrencyUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
